@@ -4,6 +4,8 @@
 ![GitHub license](https://img.shields.io/github/license/tuusuario/tu-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/tuusuario/tu-portfolio?style=social)
 
+![Porfolio](https://github.com/OslarCode/Code-Portfolio/blob/main/public/images/screencapture-localhost-5173-2024-09-24-18_42_21.png)
+
 Bienvenido a mi portfolio personal, donde muestro mis proyectos y habilidades como desarrollador web. 👨‍💻
 
 ## 📋 Contenido
